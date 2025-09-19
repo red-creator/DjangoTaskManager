@@ -65,4 +65,4 @@ python manage.py runserver
    - Статусы задач (Status)
 
 ## Контакты
-Егор Иванков - grivankob@gmail.com
+Егор Иванков - grivankov@gmail.com
